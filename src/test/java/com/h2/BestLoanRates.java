@@ -1,6 +1,6 @@
 package com.h2;
 
-import java.util.scanner;
+import java.util.Scanner;
 public class BestLoanRates {
     public static void main
 }
